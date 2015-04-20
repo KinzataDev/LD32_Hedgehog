@@ -2,6 +2,16 @@
 Thumbs.db
 ehthumbs.db
 
+# UNITY STUFF
+Assembly-*
+BuildDir
+Library/metadata
+Library/ShaderCache
+Temp
+Library/shader*
+Library/ShaderCache.db
+
+
 # Folder config file
 Desktop.ini
 
